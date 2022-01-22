@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#FFFFFF"
+    >
+    <TextView
+        android:id="@+id/greeting"
+        android:layout_marginTop="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="QUIZZ"
+        android:layout_gravity="center"
+        android:textSize="50dp"
+        android:textColor="#0ED689"
+        android:textStyle="bold"
+        >
+    </TextView>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="English 'quiz'"
+        android:layout_gravity="center"
+        android:textSize="20dp"
+        android:textStyle="italic"
+        android:textColor="#0ED689"
+        android:layout_marginBottom="10dp"
+        >
+    </TextView>
+
+    <LinearLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        android:background="#0ED689"
+        android:orientation="vertical"
+
+        >
+
+        <LinearLayout
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:layout_marginTop="50dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="~Vui chọn lòng độ khó phù hợp~"
+                android:textSize="18dp"
+                android:layout_marginBottom="20dp"
+                android:textColor="#ffffff"
+                >
+
+            </TextView>
+            <Button
+                android:id="@+id/BtnDe"
+                android:layout_width="300dp"
+                android:layout_height="75dp"
+                android:background="@drawable/box"
+                android:gravity="center"
+                android:drawableTop="@drawable/ic_noun_star_435207"
+                android:layout_marginBottom="5dp"
+
+
+                >
+            </Button>
+            <Button
+                android:id="@+id/BtnTrung"
+                android:layout_width="300dp"
+                android:layout_height="75dp"
+                android:background="@drawable/box"
+                android:gravity="center"
+                android:drawableTop="@drawable/ic_noun_2_stars_435202"
+                android:layout_marginBottom="5dp"
+
+                >
+            </Button>
+            <Button
+                android:id="@+id/BtnKho"
+                android:layout_width="300dp"
+                android:layout_height="75dp"
+                android:background="@drawable/box"
+                android:gravity="center"
+                android:drawableTop="@drawable/ic_noun_3_star_435203"
+                android:layout_marginBottom="5dp"
+
+                >
+            </Button>
+
+            <Button
+
+                android:id="@+id/BtnTroVe"
+                android:layout_marginTop="50dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="TRỞ VỀ"
+                android:layout_gravity="end"
+                android:background="@drawable/trove_box"
+                android:textColor="#0ED689"
+                android:textSize="20dp"
+                >
+
+            </Button>
+        </LinearLayout>
+
+
+
+    </LinearLayout>
+
+
+</LinearLayout>

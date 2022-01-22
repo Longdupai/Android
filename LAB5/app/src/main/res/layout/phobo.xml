@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/TxtPho"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Món phở"
+        android:textSize="30dp"
+        android:textAlignment="center"
+        android:textColor="@color/colorAccent"
+        android:padding="20dp"
+        android:gravity="center_horizontal" />
+    <ImageView
+        android:id="@+id/IgmPho"
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:src="@drawable/pho"
+        android:layout_below="@+id/TxtPho"
+        android:layout_gravity="center"
+        />
+    <Button
+        android:id="@+id/BtnBackFromPho"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Trở về"
+        android:textSize="20dp"
+        android:layout_marginTop="20dp"
+        android:layout_below="@+id/IgmPho"
+        />
+</LinearLayout>

@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Questionare3>
+    <Item>
+        <ID>1</ID>
+        <Question> Can I park here ?</Question>
+        <AnswerA>Sorry, I did that.</AnswerA>
+        <AnswerB>It’s the same place.</AnswerB>
+        <AnswerC>Only for half an hour.</AnswerC>
+        <AnswerD>Nah lol.</AnswerD>
+        <Answer>C</Answer>
+    </Item>
+    <Item>
+        <ID>2</ID>
+        <Question> What colour will you paint the childer’s bedroom?</Question>
+        <AnswerA>I hope it was right.</AnswerA>
+        <AnswerB>We can’t decide yet.</AnswerB>
+        <AnswerC>It wasn’t very difficult</AnswerC>
+        <AnswerD>Three red horizontal lines with yellow background.</AnswerD>
+        <Answer>B</Answer>
+    </Item>
+    <Item>
+        <ID>3</ID>
+        <Question>I can't understand this email.</Question>
+        <AnswerA>Would you like some help with that?</AnswerA>
+        <AnswerB>Don’t you know?</AnswerB>
+        <AnswerC>I suppose you can.</AnswerC>
+        <AnswerD>It’s easy.</AnswerD>
+        <Answer>A</Answer>
+    </Item>
+    <Item>
+        <ID>4</ID>
+        <Question> I'd like two tickets for tomorrow night.</Question>
+        <AnswerA>How much did you pay?</AnswerA>
+        <AnswerB>Afternoon and evening</AnswerB>
+        <AnswerC>I’ll just check for you.</AnswerC>
+        <AnswerD>None left.</AnswerD>
+        <Answer>C</Answer>
+    </Item>
+    <Item>
+        <ID>5</ID>
+        <Question> Shall we go to the gym now?</Question>
+        <AnswerA>I’m too tired.</AnswerA>
+        <AnswerB>It’s very good.</AnswerB>
+        <AnswerC>Not at all.</AnswerC>
+        <AnswerD>I’m starving.</AnswerD>
+        <Answer>A</Answer>
+    </Item>
+    <Item>
+        <ID>6</ID>
+        <Question>________ tired Melissa is when she gets home from work, she always makes time to say goodnight to the children.</Question>
+        <AnswerA>Whatever</AnswerA>
+        <AnswerB>No matter how</AnswerB>
+        <AnswerC>However much</AnswerC>
+        <AnswerD>Although</AnswerD>
+        <Answer>B</Answer>
+    </Item>
+    <Item>
+        <ID>7</ID>
+        <Question> I'd rather you ________ to her why we can't go.</Question>
+        <AnswerA>would explain</AnswerA>
+        <AnswerB>explained</AnswerB>
+        <AnswerC>to explain</AnswerC>
+        <AnswerD>will explain</AnswerD>
+        <Answer>B</Answer>
+    </Item>
+    <Item>
+        <ID>8</ID>
+        <Question> Before making a decision, the leader considered all ________ of the argument.</Question>
+        <AnswerA>sides</AnswerA>
+        <AnswerB>features</AnswerB>
+        <AnswerC>perspectives</AnswerC>
+        <AnswerD>shades</AnswerD>
+        <Answer>A</Answer>
+    </Item>
+    <Item>
+        <ID>9</ID>
+        <Question> This new printer is recommended as being ________ reliable.</Question>
+        <AnswerA>greatly</AnswerA>
+        <AnswerB>highly</AnswerB>
+        <AnswerC>strongly</AnswerC>
+        <AnswerD>readily</AnswerD>
+        <Answer>B</Answer>
+    </Item>
+    <Item>
+        <ID>10</ID>
+        <Question> When I realised I had dropped my gloves, I decided to ________ my steps.</Question>
+        <AnswerA>retrace</AnswerA>
+        <AnswerB>regress</AnswerB>
+        <AnswerC>resume</AnswerC>
+        <AnswerD>return</AnswerD>
+        <Answer>A</Answer>
+    </Item>
+    <Item>
+        <ID>11</ID>
+        <Question> Anne's house is somewhere in the ________ of the railway station.</Question>
+        <AnswerA>region</AnswerA>
+        <AnswerB>quarter</AnswerB>
+        <AnswerC>vicinity</AnswerC>
+        <AnswerD>district</AnswerD>
+        <Answer>C</Answer>
+    </Item>
+    <Item>
+        <ID>12</ID>
+        <Question> Claude is ________.</Question>
+        <AnswerA>Frenchman</AnswerA>
+        <AnswerB>French</AnswerB>
+        <AnswerC>a Frenchman</AnswerC>
+        <AnswerD>French man</AnswerD>
+        <Answer>C</Answer>
+    </Item>
+    <Item>
+        <ID>13</ID>
+        <Question> Those students are working very ________ for their next exams.</Question>
+        <AnswerA>hardly</AnswerA>
+        <AnswerB>hard</AnswerB>
+        <AnswerC>harder</AnswerC>
+        <AnswerD>hardest</AnswerD>
+        <Answer>B</Answer>
+    </Item>
+    <Item>
+        <ID>14</ID>
+        <Question> Jane ________ as a fashion designer for ten years before becoming a famous singer </Question>
+        <AnswerA>wored</AnswerA>
+        <AnswerB>is working</AnswerB>
+        <AnswerC>works</AnswerC>
+        <AnswerD>will work</AnswerD>
+        <Answer>A</Answer>
+    </Item>
+    <Item>
+        <ID>15</ID>
+        <Question> Under no circumstances ________ or exchanged.</Question>
+        <AnswerA>good will be returned</AnswerA>
+        <AnswerB>goods should be returned</AnswerB>
+        <AnswerC>can good be returned</AnswerC>
+        <AnswerD>are goods being returned</AnswerD>
+        <Answer>B</Answer>
+    </Item>
+    <Item>
+        <ID>16</ID>
+        <Question> Frank ________ when he noticed a large packing case lying on the floor</Question>
+        <AnswerA>has about to leave</AnswerA>
+        <AnswerB>had about to leave</AnswerB>
+        <AnswerC>is about to leave</AnswerC>
+        <AnswerD>was about to leave</AnswerD>
+        <Answer>D</Answer>
+    </Item>
+    <Item>
+        <ID>17</ID>
+        <Question> He ________ newspapers for ten years.</Question>
+        <AnswerA>is selling</AnswerA>
+        <AnswerB>sells</AnswerB>
+        <AnswerC>has been selling</AnswerC>
+        <AnswerD>has been sold</AnswerD>
+        <Answer>C</Answer>
+    </Item>
+    <Item>
+        <ID>18</ID>
+        <Question> This luggage is quite similar to ________.</Question>
+        <AnswerA>that one</AnswerA>
+        <AnswerB>those</AnswerB>
+        <AnswerC>in additional</AnswerC>
+        <AnswerD>that</AnswerD>
+        <Answer>A</Answer>
+    </Item>
+    <Item>
+        <ID>19</ID>
+        <Question> Frede came to the meeting but Charles ________.</Question>
+        <AnswerA>isn’t</AnswerA>
+        <AnswerB>hasn’t</AnswerB>
+        <AnswerC>didn’t</AnswerC>
+        <AnswerD>wasn’t</AnswerD>
+        <Answer>C</Answer>
+    </Item>
+    <Item>
+        <ID>20</ID>
+        <Question> If you ________. your money to mine, we shall have enough.</Question>
+        <AnswerA>add</AnswerA>
+        <AnswerB>combine</AnswerB>
+        <AnswerC>join</AnswerC>
+        <AnswerD>unite</AnswerD>
+        <Answer>A</Answer>
+    </Item>
+    <Item>
+        <ID>21</ID>
+        <Question> He kept ________. the same thing again and again.</Question>
+        <AnswerA>repeat</AnswerA>
+        <AnswerB>to repeat</AnswerB>
+        <AnswerC>repeat to</AnswerC>
+        <AnswerD>repeating</AnswerD>
+        <Answer>D</Answer>
+    </Item>
+    <Item>
+        <ID>22</ID>
+        <Question> There is no reason to ________ the man simply because you do not agree with him.</Question>
+        <AnswerA>insult and defame </AnswerA>
+        <AnswerB>enhance and defame</AnswerB>
+        <AnswerC>insult and deput</AnswerC>
+        <AnswerD>animate and destroy</AnswerD>
+        <Answer>A</Answer>
+    </Item>
+    <Item>
+        <ID>23</ID>
+        <Question> The lung transplant operation was ________ complicated and the doctors had to take special care to ensure its success </Question>
+        <AnswerA>broeadly</AnswerA>
+        <AnswerB>immediately</AnswerB>
+        <AnswerC>extremely</AnswerC>
+        <AnswerD>slightly</AnswerD>
+        <Answer>C</Answer>
+    </Item>
+    <Item>
+        <ID>24</ID>
+        <Question> I’m a sharp cookie. There’s no way anybody can pull the wool over my ________.</Question>
+        <AnswerA>tissue</AnswerA>
+        <AnswerB>eyes</AnswerB>
+        <AnswerC>truth</AnswerC>
+        <AnswerD>glasses</AnswerD>
+        <Answer>B</Answer>
+    </Item>
+    <Item>
+        <ID>25</ID>
+        <Question>________ the fifth largest among the nine planets that make up our solar system.</Question>
+        <AnswerA>The Earth is</AnswerA>
+        <AnswerB>The Earth being</AnswerB>
+        <AnswerC>That the Earth is</AnswerC>
+        <AnswerD>Being the Earth</AnswerD>
+        <Answer>A</Answer>
+    </Item>
+    <Item>
+        <ID>26</ID>
+        <Question> In mathematics, a variable is a symbol ________ some element of a set.</Question>
+        <AnswerA>and representing</AnswerA>
+        <AnswerB>represents</AnswerB>
+        <AnswerC>that represents</AnswerC>
+        <AnswerD>represents that</AnswerD>
+        <Answer>C</Answer>
+    </Item>
+    <Item>
+        <ID>27</ID>
+        <Question> Between the California Coast Range and the Sierra Nevada ________</Question>
+        <AnswerA>great Central Valley</AnswerA>
+        <AnswerB>the great Central Valley</AnswerB>
+        <AnswerC>being the great Central Valley</AnswerC>
+        <AnswerD>lies the great Central Valley</AnswerD>
+        <Answer>D</Answer>
+    </Item>
+    <Item>
+        <ID>28</ID>
+        <Question>________ occasions for congratulations.</Question>
+        <AnswerA>Birthdays that usually considered</AnswerA>
+        <AnswerB>Usually considering birthdays</AnswerB>
+        <AnswerC>Birthdays are usually considered</AnswerC>
+        <AnswerD>That considered birtdays usually</AnswerD>
+        <Answer>C</Answer>
+    </Item>
+    <Item>
+        <ID>29</ID>
+        <Question>________ there is a close correlation between stress and illness.</Question>
+        <AnswerA>Some psychologists believe</AnswerA>
+        <AnswerB>Believed some psychologists</AnswerB>
+        <AnswerC>Some psychologists to believe</AnswerC>
+        <AnswerD>Some psychologists believing</AnswerD>
+        <Answer>A</Answer>
+    </Item>
+    <Item>
+        <ID>30</ID>
+        <Question> Black, red, and even bright pink diamonds ________.</Question>
+        <AnswerA>occasionally to find</AnswerA>
+        <AnswerB>ccasionally found</AnswerB>
+        <AnswerC>have occasionally been found</AnswerC>
+        <AnswerD>haave occasionally found</AnswerD>
+        <Answer>D</Answer>
+    </Item>
+    <Item>
+        <ID>31</ID>
+        <Question> After we had had breakfast, we ________ the house.</Question>
+        <AnswerA>leave</AnswerA>
+        <AnswerB>left</AnswerB>
+        <AnswerC>has left</AnswerC>
+        <AnswerD>had left</AnswerD>
+        <Answer>B</Answer>
+    </Item>
+    <Item>
+        <ID>32</ID>
+        <Question> I had heard the news before you ________ me about it.</Question>
+        <AnswerA>tell</AnswerA>
+        <AnswerB>told</AnswerB>
+        <AnswerC>has told</AnswerC>
+        <AnswerD>had told</AnswerD>
+        <Answer>B</Answer>
+    </Item>
+    <Item>
+        <ID>33</ID>
+        <Question> It ________ when I got up this morning.</Question>
+        <AnswerA>rains</AnswerA>
+        <AnswerB>rained</AnswerB>
+        <AnswerC>had rained</AnswerC>
+        <AnswerD>was raining</AnswerD>
+        <Answer>D</Answer>
+    </Item>
+    <Item>
+        <ID>34</ID>
+        <Question>What does he ________ for a living?</Question>
+        <AnswerA>make</AnswerA>
+        <AnswerB>does</AnswerB>
+        <AnswerC>do</AnswerC>
+        <AnswerD>makes</AnswerD>
+        <Answer>C</Answer>
+    </Item>
+    <Item>
+        <ID>35</ID>
+        <Question> The murderer was ________ yesterday.</Question>
+        <AnswerA>hanging</AnswerA>
+        <AnswerB>hung</AnswerB>
+        <AnswerC>hanged</AnswerC>
+        <AnswerD>hang</AnswerD>
+        <Answer>B</Answer>
+    </Item>
+    <Item>
+        <ID>36</ID>
+        <Question> Don’t let your brothers ________ the present.</Question>
+        <AnswerA>to see</AnswerA>
+        <AnswerB>seeing</AnswerB>
+        <AnswerC>seen</AnswerC>
+        <AnswerD>see</AnswerD>
+        <Answer>D</Answer>
+    </Item>
+    <Item>
+        <ID>37</ID>
+        <Question>No, thank you, I don’t ________ sugar in tea.</Question>
+        <AnswerA>take</AnswerA>
+        <AnswerB>put</AnswerB>
+        <AnswerC>eat</AnswerC>
+        <AnswerD>drink</AnswerD>
+        <Answer>B</Answer>
+    </Item>
+    <Item>
+        <ID>38</ID>
+        <Question> My cousin ________ bank manager.</Question>
+        <AnswerA>is a</AnswerA>
+        <AnswerB>makes</AnswerB>
+        <AnswerC>is</AnswerC>
+        <AnswerD>, he is</AnswerD>
+        <Answer>A</Answer>
+    </Item>
+    <Item>
+        <ID>39</ID>
+        <Question> She’s talking to you. Please listen to ________.</Question>
+        <AnswerA>she</AnswerA>
+        <AnswerB>hers</AnswerB>
+        <AnswerC>her</AnswerC>
+        <AnswerD>them</AnswerD>
+        <Answer>C</Answer>
+    </Item>
+    <Item>
+        <ID>40</ID>
+        <Question> You can join the club when you ________ a bit older.</Question>
+        <AnswerA>will have got</AnswerA>
+        <AnswerB>will get</AnswerB>
+        <AnswerC>get</AnswerC>
+        <AnswerD>are getting</AnswerD>
+        <Answer>C</Answer>
+    </Item>
+</Questionare3>

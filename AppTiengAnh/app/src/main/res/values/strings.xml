@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">AppTiengAnh</string>
+    <string name="huongdandiemcao">1. Chức năng này hiển thị số điểm CAO NHẤT bạn đạt được trong lần kiểm tra gần nhất ở trên cùng.\n
+2. Số điểm sẽ được cập nhập nếu bạn đạt được kết quả tốt hơn lần trước đó.\n
+3. Ngoài ra, kết quả bài làm của 5 bài test có điểm cao nhất sẽ được lưu lại và hiển thị ngay bên dưới.\n
+3. “Trở về” để quay lại màn hình chính.
+</string>
+    <string name="huongdanlambai">1. Nhập số câu hỏi bạn mong muốn (tối thiếu 05, tối đa 10 câu).\n
+2. Ấn “tiếp theo” sau khi nhập số câu.\n
+3. Vui lòng chọn độ khó lần lượt là dễ, trung bình, khó tương ứng với số ngôi sao.\n
+4. Câu hỏi hiện ra kèm theo 04 câu trả lời, bạn sẽ chỉ được chọn một trong bốn.\n
+5. Hãy cân nhắc đáp án trước khi chọn, vì đã qua câu hỏi mới thì sẽ không được quay lại.\n
+6. Ấn “trả lời” để tiếp tục qua câu hỏi kế.\n
+7. “Điểm” sẽ được cập nhập trực tiếp cho mỗi câu trả lời đúng.\n
+8. Hết bài kiểm tra, bạn sẽ được cập nhập số điểm đạt được vừa rồi.\n
+9. “Trở về” để quay lại màn hình chính.
+</string>
+    <string name="huongdan">Chương trình này được phát triển bởi nhóm 04 nhằm mục đích giúp người dùng trao dồi kiến thức tiếng Anh bằng những câu hỏi trắc nghiệm.\n
+•	Ngân hàng đề có 100 câu hỏi, được phân loạt ở 3 mức DỄ, TRUNG BÌNH và KHÓ.\n
+•	Chương trình sẽ tạo đề ngẫu nhiên cho mỗi lần test, hạn chế những câu hỏi đã xuất hiện trong bài test trước đó.\n
+•	Chương trình tự động đảo vị trí của các lựa chọn trả lời A,B,C,D.\n
+•	Tính điểm, lưu và hiển thị lại kết quả bài làm.
+</string>
+</resources>

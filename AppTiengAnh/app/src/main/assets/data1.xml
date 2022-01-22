@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Questionare1>
+    <Item>
+        <ID>1</ID>
+        <Question> They ________ our party about eleven.</Question>
+        <AnswerA>leave</AnswerA>
+        <AnswerB>left</AnswerB>
+        <AnswerC>leaves</AnswerC>
+        <AnswerD>have left</AnswerD>
+        <Answer>B</Answer>
+    </Item>
+    <Item>
+        <ID>2</ID>
+        <Question> Paul ________ with us for about nine days by now.</Question>
+        <AnswerA>have lived</AnswerA>
+        <AnswerB>had lived</AnswerB>
+        <AnswerC>has lived</AnswerC>
+        <AnswerD>lived</AnswerD>
+        <Answer>C</Answer>
+    </Item>
+    <Item>
+        <ID>3</ID>
+        <Question> Last year I ________ all of my books in my office.</Question>
+        <AnswerA>keep</AnswerA>
+        <AnswerB>kept</AnswerB>
+        <AnswerC>have kept</AnswerC>
+        <AnswerD>has kept</AnswerD>
+        <Answer>B</Answer>
+    </Item>
+    <Item>
+        <ID>4</ID>
+        <Question> I’m afraid I ________ my gloves when I was walking home.</Question>
+        <AnswerA>lost</AnswerA>
+        <AnswerB>will lose</AnswerB>
+        <AnswerC>has lost</AnswerC>
+        <AnswerD>have lost</AnswerD>
+        <Answer>A</Answer>
+    </Item>
+    <Item>
+        <ID>5</ID>
+        <Question> Mark prefers cycling ________ driving.</Question>
+        <AnswerA>than</AnswerA>
+        <AnswerB>for</AnswerB>
+        <AnswerC>to</AnswerC>
+        <AnswerD>as</AnswerD>
+        <Answer>C</Answer>
+    </Item>
+    <Item>
+        <ID>6</ID>
+        <Question> Your sister used to visit you quite often, ________?</Question>
+        <AnswerA>didn’t she</AnswerA>
+        <AnswerB>doesn’t she</AnswerB>
+        <AnswerC>wouldn’t she</AnswerC>
+        <AnswerD>hadn’t she</AnswerD>
+        <Answer>A</Answer>
+    </Item>
+    <Item>
+        <ID>7</ID>
+        <Question>If I ________ in your place, I wouldn’t return the call.</Question>
+        <AnswerA>be</AnswerA>
+        <AnswerB>am</AnswerB>
+        <AnswerC>was</AnswerC>
+        <AnswerD>were</AnswerD>
+        <Answer>D</Answer>
+    </Item>
+    <Item>
+        <ID>8</ID>
+        <Question> I think that you had better ________ earlier so that you can get to class on time.</Question>
+        <AnswerA>started getting up</AnswerA>
+        <AnswerB> to start getting up</AnswerB>
+        <AnswerC> to start getting up</AnswerC>
+        <AnswerD> has started getting up</AnswerD>
+        <Answer>C</Answer>
+    </Item>
+    <Item>
+        <ID>9</ID>
+        <Question> I have finished typing all ________ the last page.</Question>
+        <AnswerA>to</AnswerA>
+        <AnswerB>until</AnswerB>
+        <AnswerC>but</AnswerC>
+        <AnswerD>with</AnswerD>
+        <Answer>A</Answer>
+    </Item>
+    <Item>
+        <ID>10</ID>
+        <Question> If that firm wants to attract workers, it must ________ the pay.</Question>
+        <AnswerA>lower</AnswerA>
+        <AnswerB>raise</AnswerB>
+        <AnswerC>spread</AnswerC>
+        <AnswerD>rise</AnswerD>
+        <Answer>B</Answer>
+    </Item>
+    <Item>
+        <ID>11</ID>
+        <Question> Anne’s boss is sometimes forgetful ________ the promises he hasmade.</Question>
+        <AnswerA>at</AnswerA>
+        <AnswerB>with</AnswerB>
+        <AnswerC>to</AnswerC>
+        <AnswerD>of</AnswerD>
+        <Answer>D</Answer>
+    </Item>
+    <Item>
+        <ID>12</ID>
+        <Question> Anne’s boss is sometimes forgetful ________ the promises he has made.</Question>
+        <AnswerA>little</AnswerA>
+        <AnswerB>a little</AnswerB>
+        <AnswerC>few</AnswerC>
+        <AnswerD>a few</AnswerD>
+        <Answer>C</Answer>
+    </Item>
+    <Item>
+        <ID>13</ID>
+        <Question> It is earth’s gravity that ________ people their weight.</Question>
+        <AnswerA>gives</AnswerA>
+        <AnswerB>give</AnswerB>
+        <AnswerC>giving</AnswerC>
+        <AnswerD>given</AnswerD>
+        <Answer>A</Answer>
+    </Item>
+    <Item>
+        <ID>14</ID>
+        <Question>A dolphin six ________ length can move as fast as most ships.</Question>
+        <AnswerA>foot in</AnswerA>
+        <AnswerB>feet in</AnswerB>
+        <AnswerC>foot of</AnswerC>
+        <AnswerD>feet of</AnswerD>
+        <Answer>B</Answer>
+    </Item>
+    <Item>
+        <ID>15</ID>
+        <Question>With new technology, cameras can take pictures of underwater valleys ________ color.</Question>
+        <AnswerA>within</AnswerA>
+        <AnswerB>for</AnswerB>
+        <AnswerC>in</AnswerC>
+        <AnswerD>by</AnswerD>
+        <Answer>C</Answer>
+    </Item>
+    <Item>
+        <ID>16</ID>
+        <Question>________ actress’s life is in many ways unlike that of other women.</Question>
+        <AnswerA>An</AnswerA>
+        <AnswerB>A</AnswerB>
+        <AnswerC>As the</AnswerC>
+        <AnswerD>That the</AnswerD>
+        <Answer>A</Answer>
+    </Item>
+    <Item>
+        <ID>17</ID>
+        <Question> About 20 miles from Boston, ________ a little town named Concord.</Question>
+        <AnswerA>has</AnswerA>
+        <AnswerB>there is</AnswerB>
+        <AnswerC>there are</AnswerC>
+        <AnswerD>where is</AnswerD>
+        <Answer>B</Answer>
+    </Item>
+    <Item>
+        <ID>18</ID>
+        <Question>It is gravity ________ objects toward the earth.</Question>
+        <AnswerA>pull</AnswerA>
+        <AnswerB>that pulls</AnswerB>
+        <AnswerC>to pull</AnswerC>
+        <AnswerD>what pulls</AnswerD>
+        <Answer>B</Answer>
+    </Item>
+    <Item>
+        <ID>19</ID>
+        <Question> Forty-niners ________ to California for gold in 1848.</Question>
+        <AnswerA>rushed</AnswerA>
+        <AnswerB>are rushed</AnswerB>
+        <AnswerC>have rushed</AnswerC>
+        <AnswerD>rushing</AnswerD>
+        <Answer>A</Answer>
+    </Item>
+    <Item>
+        <ID>20</ID>
+        <Question>That is the best book that I ________ on that subject.</Question>
+        <AnswerA>had read</AnswerA>
+        <AnswerB>read</AnswerB>
+        <AnswerC>have read</AnswerC>
+        <AnswerD>am reading</AnswerD>
+        <Answer>C</Answer>
+    </Item>
+    <Item>
+        <ID>21</ID>
+        <Question> Yesterday I met the woman who ________ us with the work next month.</Question>
+        <AnswerA>will help</AnswerA>
+        <AnswerB>helps</AnswerB>
+        <AnswerC>has helped</AnswerC>
+        <AnswerD>is helping</AnswerD>
+        <Answer>A</Answer>
+    </Item>
+    <Item>
+        <ID>22</ID>
+        <Question> That ________ the best movie that I had seen for a long time.</Question>
+        <AnswerA>will be</AnswerA>
+        <AnswerB>has been</AnswerB>
+        <AnswerC>is</AnswerC>
+        <AnswerD>was</AnswerD>
+        <Answer>D</Answer>
+    </Item>
+    <Item>
+        <ID>23</ID>
+        <Question>He said that he ________ me there at 4.30 this afternoon.</Question>
+        <AnswerA>would meet</AnswerA>
+        <AnswerB>met</AnswerB>
+        <AnswerC>will meet</AnswerC>
+        <AnswerD>meets</AnswerD>
+        <Answer>A</Answer>
+    </Item>
+    <Item>
+        <ID>24</ID>
+        <Question> Maxwell ________ three dollars for the tie he bought at Macy’s.</Question>
+        <AnswerA>had paid</AnswerA>
+        <AnswerB>paid</AnswerB>
+        <AnswerC>pays</AnswerC>
+        <AnswerD>would pay</AnswerD>
+        <Answer>B</Answer>
+    </Item>
+    <Item>
+        <ID>25</ID>
+        <Question> The salesman was telling me that he ________ ten cars last week.</Question>
+        <AnswerA>sold</AnswerA>
+        <AnswerB>had sold</AnswerB>
+        <AnswerC>would sell</AnswerC>
+        <AnswerD>has sold</AnswerD>
+        <Answer>B</Answer>
+    </Item>
+    <Item>
+        <ID>26</ID>
+        <Question>Did Bob say that he ________ from Princeton in 1951?</Question>
+        <AnswerA>would gradute</AnswerA>
+        <AnswerB>graduates</AnswerB>
+        <AnswerC>has graduted</AnswerC>
+        <AnswerD>had graduted</AnswerD>
+        <Answer>D</Answer>
+    </Item>
+    <Item>
+        <ID>27</ID>
+        <Question> She will be ready when he ________ here.</Question>
+        <AnswerA>get</AnswerA>
+        <AnswerB>gets</AnswerB>
+        <AnswerC>has got</AnswerC>
+        <AnswerD>will get</AnswerD>
+        <Answer>B</Answer>
+    </Item>
+    <Item>
+        <ID>28</ID>
+        <Question> The child always cries when his mother ________ out of the house.</Question>
+        <AnswerA>go</AnswerA>
+        <AnswerB>goes</AnswerB>
+        <AnswerC>will go</AnswerC>
+        <AnswerD>has gone</AnswerD>
+        <Answer>B</Answer>
+    </Item>
+    <Item>
+        <ID>29</ID>
+        <Question> They often listen to the radio while they ________ in their car.</Question>
+        <AnswerA>is traveling</AnswerA>
+        <AnswerB>travle</AnswerB>
+        <AnswerC>will travel</AnswerC>
+        <AnswerD>has traveled</AnswerD>
+        <Answer>B</Answer>
+    </Item>
+    <Item>
+        <ID>30</ID>
+        <Question> We saw several old friend while we ________ in Baltimore.</Question>
+        <AnswerA>are</AnswerA>
+        <AnswerB>were</AnswerB>
+        <AnswerC>has been</AnswerC>
+        <AnswerD>will be</AnswerD>
+        <Answer>B</Answer>
+    </Item>
+    <Item>
+        <ID>31</ID>
+        <Question> After we had had breakfast, we ________ the house.</Question>
+        <AnswerA>leave</AnswerA>
+        <AnswerB>left</AnswerB>
+        <AnswerC>has left</AnswerC>
+        <AnswerD>had left</AnswerD>
+        <Answer>B</Answer>
+    </Item>
+    <Item>
+        <ID>32</ID>
+        <Question> I had heard the news before you ________ me about it.</Question>
+        <AnswerA>tell</AnswerA>
+        <AnswerB>told</AnswerB>
+        <AnswerC>has told</AnswerC>
+        <AnswerD>had told</AnswerD>
+        <Answer>B</Answer>
+    </Item>
+    <Item>
+        <ID>33</ID>
+        <Question> It ________ when I got up this morning.</Question>
+        <AnswerA>rains</AnswerA>
+        <AnswerB>rained</AnswerB>
+        <AnswerC>had rained</AnswerC>
+        <AnswerD>was raining</AnswerD>
+        <Answer>D</Answer>
+    </Item>
+    <Item>
+        <ID>34</ID>
+        <Question>What does he ________ for a living?</Question>
+        <AnswerA>make</AnswerA>
+        <AnswerB>does</AnswerB>
+        <AnswerC>do</AnswerC>
+        <AnswerD>makes</AnswerD>
+        <Answer>C</Answer>
+    </Item>
+    <Item>
+        <ID>35</ID>
+        <Question> The murderer was ________ yesterday.</Question>
+        <AnswerA>hanging</AnswerA>
+        <AnswerB>hung</AnswerB>
+        <AnswerC>hanged</AnswerC>
+        <AnswerD>hang</AnswerD>
+        <Answer>B</Answer>
+    </Item>
+    <Item>
+        <ID>36</ID>
+        <Question> Don’t let your brothers ________ the present.</Question>
+        <AnswerA>to see</AnswerA>
+        <AnswerB>seeing</AnswerB>
+        <AnswerC>seen</AnswerC>
+        <AnswerD>see</AnswerD>
+        <Answer>D</Answer>
+    </Item>
+    <Item>
+        <ID>37</ID>
+        <Question>No, thank you, I don’t ________ sugar in tea.</Question>
+        <AnswerA>take</AnswerA>
+        <AnswerB>put</AnswerB>
+        <AnswerC>eat</AnswerC>
+        <AnswerD>drink</AnswerD>
+        <Answer>B</Answer>
+    </Item>
+    <Item>
+        <ID>38</ID>
+        <Question> My cousin ________ bank manager.</Question>
+        <AnswerA>is a</AnswerA>
+        <AnswerB>makes</AnswerB>
+        <AnswerC>is</AnswerC>
+        <AnswerD>, he is</AnswerD>
+        <Answer>A</Answer>
+    </Item>
+    <Item>
+        <ID>39</ID>
+        <Question> She’s talking to you. Please listen to ________.</Question>
+        <AnswerA>she</AnswerA>
+        <AnswerB>hers</AnswerB>
+        <AnswerC>her</AnswerC>
+        <AnswerD>them</AnswerD>
+        <Answer>C</Answer>
+    </Item>
+    <Item>
+        <ID>40</ID>
+        <Question> You can join the club when you ________ a bit older.</Question>
+        <AnswerA>will have got</AnswerA>
+        <AnswerB>will get</AnswerB>
+        <AnswerC>get</AnswerC>
+        <AnswerD>are getting</AnswerD>
+        <Answer>C</Answer>
+    </Item>
+</Questionare1>

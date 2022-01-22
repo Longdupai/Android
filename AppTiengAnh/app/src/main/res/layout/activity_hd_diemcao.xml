@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#FFFFFF"
+    >
+    <TextView
+        android:id="@+id/greeting"
+        android:layout_marginTop="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="QUIZZ"
+        android:layout_gravity="center"
+        android:textSize="50dp"
+        android:textColor="#0ED689"
+        android:textStyle="bold"
+        >
+    </TextView>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="English 'quiz'"
+        android:layout_gravity="center"
+        android:textSize="20dp"
+        android:textStyle="italic"
+        android:textColor="#0ED689"
+        android:layout_marginBottom="10dp"
+        >
+    </TextView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        android:background="#0ED689"
+        android:orientation="vertical"
+
+        >
+
+        <LinearLayout
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+
+            <TextView
+
+                android:textAlignment="center"
+                android:layout_width="300dp"
+                android:layout_height="40dp"
+                android:text="HƯỚNG DẪN"
+                android:textStyle="bold"
+                android:textColor="#0ED689"
+                android:background="@drawable/box"
+                android:textSize="30dp"
+                android:gravity="center"
+                android:layout_gravity="center"
+                >
+            </TextView>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="360dp"
+                android:layout_marginStart="10dp"
+                android:layout_marginEnd="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"
+                android:background="#ffffff"
+                >
+                <LinearLayout
+                    android:background="#0ED689"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginBottom="5dp"
+                    android:layout_marginEnd="5dp"
+                    android:layout_marginStart="5dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+                    <TextView
+
+
+                        android:text="@string/huongdandiemcao"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textColor="#ffffff"
+                        android:textSize="23dp" />
+                </LinearLayout>
+
+            </LinearLayout>
+            <Button
+                android:id="@+id/BtnTroVe"
+                android:layout_marginTop="40dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="TRỞ VỀ"
+                android:layout_gravity="end"
+                android:background="@drawable/trove_box"
+                android:textColor="#0ED689"
+                android:textSize="20dp"
+                >
+            </Button>
+        </LinearLayout>
+
+
+
+    </LinearLayout>
+
+
+</LinearLayout>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.son.lab6.MainActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/TxtTieude"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Nhập thông tin hóa đơn"
+            android:textSize="30dp"
+            android:layout_centerHorizontal="true"
+            android:padding="20dp" />
+        <TextView
+            android:id="@+id/TxtTenkhachhang"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:text="Tên khách hàng: "
+            android:textSize="25dp"
+            android:layout_below="@+id/TxtTieude"/>
+        <EditText
+            android:id="@+id/EdtTenkhachhang"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@id/TxtTenkhachhang"
+            android:layout_toRightOf="@id/TxtTenkhachhang"
+            android:textSize="20dp"
+            android:textStyle="bold"/>
+        <TextView
+            android:id="@+id/TxtTenhang"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:text="Tên hàng:"
+            android:textSize="25dp"
+            android:layout_marginTop="20dp"
+            android:layout_below="@id/TxtTenkhachhang"/>
+        <EditText
+            android:id="@+id/EdtTenhang"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@id/TxtTenhang"
+            android:layout_toRightOf="@id/TxtTenhang"
+            android:textSize="20dp"
+            android:textStyle="bold"/>
+        <TextView
+            android:id="@+id/TxtSoluong"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:text="Số lượng:"
+            android:textSize="25dp"
+            android:layout_marginTop="20dp"
+            android:layout_below="@+id/TxtTenhang" />
+        <EditText
+            android:id="@+id/EdtSoluong"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/TxtSoluong"
+            android:layout_toRightOf="@+id/TxtSoluong"
+            android:textSize="20dp"
+            android:textStyle="bold"
+            android:inputType="number"
+            android:textAlignment="textEnd"
+            android:paddingRight="20dp"
+            android:gravity="end" />
+        <TextView
+            android:id="@+id/TxtDongia"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:text="Đơn Giá:"
+            android:textSize="25dp"
+            android:layout_marginTop="20dp"
+            android:layout_below="@id/TxtSoluong"
+            />
+        <EditText
+            android:id="@+id/EdtDongia"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/TxtDongia"
+            android:layout_toRightOf="@+id/TxtDongia"
+            android:inputType="numberDecimal"
+            android:paddingRight="20dp"
+            android:singleLine="false"
+            android:textAppearance="@style/TextAppearance.AppCompat" />
+        <Button
+            android:id="@+id/BtnInhoadon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="In hóa đơn"
+            android:textSize="25dp"
+            android:textAllCaps="false"
+            android:layout_below="@+id/EdtDongia"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="20dp"
+            android:background="#3300FF"
+            android:textColor="#FFFFFF"
+            android:padding="10dp"
+            android:textStyle="bold"
+            />
+
+    </RelativeLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

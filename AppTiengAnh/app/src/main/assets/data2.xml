@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Questionare2>
+    <Item>
+        <ID>1</ID>
+        <Question> His eyes were ________ bad that he couldn't read the number plate of the car in front.</Question>
+        <AnswerA>such</AnswerA>
+        <AnswerB>too</AnswerB>
+        <AnswerC>so</AnswerC>
+        <AnswerD>very</AnswerD>
+        <Answer>C</Answer>
+    </Item>
+    <Item>
+        <ID>2</ID>
+        <Question> The company needs to decide ________ and for all what its position is on this point.</Question>
+        <AnswerA>here</AnswerA>
+        <AnswerB>once</AnswerB>
+        <AnswerC>first</AnswerC>
+        <AnswerD>finally</AnswerD>
+        <Answer>B</Answer>
+    </Item>
+    <Item>
+        <ID>3</ID>
+        <Question> Don't put your cup on the ________ of the table – someone will knock it off.</Question>
+        <AnswerA>outside</AnswerA>
+        <AnswerB>edge</AnswerB>
+        <AnswerC>boundary</AnswerC>
+        <AnswerD>border</AnswerD>
+        <Answer>B</Answer>
+    </Item>
+    <Item>
+        <ID>4</ID>
+        <Question> I'm sorry - I didn't ________ to disturb you.</Question>
+        <AnswerA>by</AnswerA>
+        <AnswerB>with</AnswerB>
+        <AnswerC>in</AnswerC>
+        <AnswerD>as</AnswerD>
+        <Answer>B</Answer>
+    </Item>
+    <Item>
+        <ID>5</ID>
+        <Question> The singer ended the concert ________ her most popular song</Question>
+        <AnswerA>by</AnswerA>
+        <AnswerB>with</AnswerB>
+        <AnswerC>in</AnswerC>
+        <AnswerD>as</AnswerD>
+        <Answer>B</Answer>
+    </Item>
+    <Item>
+        <ID>6</ID>
+        <Question> Would you mind ________ these plates a wipe before putting them in the cupboard?</Question>
+        <AnswerA>making</AnswerA>
+        <AnswerB>doing</AnswerB>
+        <AnswerC>getting</AnswerC>
+        <AnswerD>giving</AnswerD>
+        <Answer>D</Answer>
+    </Item>
+    <Item>
+        <ID>7</ID>
+        <Question> I was looking forward ________ at the new restaurant, but it was closed.</Question>
+        <AnswerA>to eat</AnswerA>
+        <AnswerB>to have eaten</AnswerB>
+        <AnswerC>to eating</AnswerC>
+        <AnswerD>eating</AnswerD>
+        <Answer>A</Answer>
+    </Item>
+    <Item>
+        <ID>8</ID>
+        <Question> It was only ten days ago ________ she started her new job. </Question>
+        <AnswerA>then</AnswerA>
+        <AnswerB>since</AnswerB>
+        <AnswerC>after</AnswerC>
+        <AnswerD>that</AnswerD>
+        <Answer>D</Answer>
+    </Item>
+    <Item>
+        <ID>9</ID>
+        <Question> The shop didn't have the shoes I wanted, but they've ________ a pair specially for me. </Question>
+        <AnswerA>booked</AnswerA>
+        <AnswerB>ordered</AnswerB>
+        <AnswerC>commanded</AnswerC>
+        <AnswerD>asked</AnswerD>
+        <Answer>B</Answer>
+    </Item>
+    <Item>
+        <ID>10</ID>
+        <Question> Have you got time to discuss your work now or are you ________ to leave?</Question>
+        <AnswerA>thinking</AnswerA>
+        <AnswerB>round</AnswerB>
+        <AnswerC>planned</AnswerC>
+        <AnswerD>about</AnswerD>
+        <Answer>D</Answer>
+    </Item>
+    <Item>
+        <ID>11</ID>
+        <Question> She came to live here ________ a month ago.</Question>
+        <AnswerA>quite</AnswerA>
+        <AnswerB>beyond</AnswerB>
+        <AnswerC>already</AnswerC>
+        <AnswerD>almost</AnswerD>
+        <Answer>D</Answer>
+    </Item>
+    <Item>
+        <ID>12</ID>
+        <Question> Once the plane is in the air, you can ________ your seat belts if you wish.</Question>
+        <AnswerA>undress</AnswerA>
+        <AnswerB>unfasten</AnswerB>
+        <AnswerC>unlock</AnswerC>
+        <AnswerD>untie</AnswerD>
+        <Answer>B</Answer>
+    </Item>
+    <Item>
+        <ID>13</ID>
+        <Question> I left my last job because I had no ________ to travel.</Question>
+        <AnswerA>place</AnswerA>
+        <AnswerB>position</AnswerB>
+        <AnswerC>opportunity</AnswerC>
+        <AnswerD>possibility</AnswerD>
+        <Answer>C</Answer>
+    </Item>
+    <Item>
+        <ID>14</ID>
+        <Question>It wasn't a bad crash and ________ damage was done to my car.</Question>
+        <AnswerA>little</AnswerA>
+        <AnswerB>small</AnswerB>
+        <AnswerC>light</AnswerC>
+        <AnswerD>mere</AnswerD>
+        <Answer>A</Answer>
+    </Item>
+    <Item>
+        <ID>15</ID>
+        <Question> Who are all ________ people?</Question>
+        <AnswerA>this</AnswerA>
+        <AnswerB>those</AnswerB>
+        <AnswerC>them</AnswerC>
+        <AnswerD>that</AnswerD>
+        <Answer>B</Answer>
+    </Item>
+    <Item>
+        <ID>16</ID>
+        <Question> I am ________ a car next year.</Question>
+        <AnswerA>buy</AnswerA>
+        <AnswerB>buying</AnswerB>
+        <AnswerC>going to buy</AnswerC>
+        <AnswerD>bought</AnswerD>
+        <Answer>C</Answer>
+    </Item>
+    <Item>
+        <ID>17</ID>
+        <Question> They are all ________ ready for the party.</Question>
+        <AnswerA>getting</AnswerA>
+        <AnswerB>going</AnswerB>
+        <AnswerC>doing</AnswerC>
+        <AnswerD>putting</AnswerD>
+        <Answer>A</Answer>
+    </Item>
+    <Item>
+        <ID>18</ID>
+        <Question>When do you usually go ________ bed?</Question>
+        <AnswerA>to</AnswerA>
+        <AnswerB>to the</AnswerB>
+        <AnswerC>in</AnswerC>
+        <AnswerD>in the</AnswerD>
+        <Answer>A</Answer>
+    </Item>
+    <Item>
+        <ID>19</ID>
+        <Question> London is famous for ________ red buses.</Question>
+        <AnswerA>it’s</AnswerA>
+        <AnswerB>its</AnswerB>
+        <AnswerC>it</AnswerC>
+        <AnswerD>it is</AnswerD>
+        <Answer>A</Answer>
+    </Item>
+    <Item>
+        <ID>20</ID>
+        <Question> Is there ________ milk in the fridge?</Question>
+        <AnswerA>of</AnswerA>
+        <AnswerB>to</AnswerB>
+        <AnswerC>off</AnswerC>
+        <AnswerD>in</AnswerD>
+        <Answer>D</Answer>
+    </Item>
+    <Item>
+        <ID>21</ID>
+        <Question> There is a flower shop in front ________ my house.</Question>
+        <AnswerA>of</AnswerA>
+        <AnswerB>to</AnswerB>
+        <AnswerC>off</AnswerC>
+        <AnswerD>in</AnswerD>
+        <Answer>A</Answer>
+    </Item>
+    <Item>
+        <ID>22</ID>
+        <Question> Where are ________ children? – They went to school.</Question>
+        <AnswerA>the</AnswerA>
+        <AnswerB>you</AnswerB>
+        <AnswerC>a</AnswerC>
+        <AnswerD>an</AnswerD>
+        <Answer>A</Answer>
+    </Item>
+    <Item>
+        <ID>23</ID>
+        <Question> I know somebody ________ can play the guitar.</Question>
+        <AnswerA>he</AnswerA>
+        <AnswerB>who</AnswerB>
+        <AnswerC>what</AnswerC>
+        <AnswerD>that he</AnswerD>
+        <Answer>B</Answer>
+    </Item>
+    <Item>
+        <ID>24</ID>
+        <Question> Did you ask your father ________ some money?</Question>
+        <AnswerA>none</AnswerA>
+        <AnswerB>after</AnswerB>
+        <AnswerC>on</AnswerC>
+        <AnswerD>for</AnswerD>
+        <Answer>D</Answer>
+    </Item>
+    <Item>
+        <ID>25</ID>
+        <Question> You look ________ in red!</Question>
+        <AnswerA>most nicely</AnswerA>
+        <AnswerB>too nice</AnswerB>
+        <AnswerC>nicely</AnswerC>
+        <AnswerD>very nice</AnswerD>
+        <Answer>D</Answer>
+    </Item>
+    <Item>
+        <ID>26</ID>
+        <Question> We know their address, but they don’t know ________.</Question>
+        <AnswerA>ours</AnswerA>
+        <AnswerB>their’s</AnswerB>
+        <AnswerC>our’s</AnswerC>
+        <AnswerD>our</AnswerD>
+        <Answer>A</Answer>
+    </Item>
+    <Item>
+        <ID>27</ID>
+        <Question> The doctor showed the new nurse ________ to do.</Question>
+        <AnswerA>what</AnswerA>
+        <AnswerB>that</AnswerB>
+        <AnswerC>how</AnswerC>
+        <AnswerD>as</AnswerD>
+        <Answer>A</Answer>
+    </Item>
+    <Item>
+        <ID>28</ID>
+        <Question> If you ________. your money to mine, we shall have enough.</Question>
+        <AnswerA>add</AnswerA>
+        <AnswerB>combine</AnswerB>
+        <AnswerC>join</AnswerC>
+        <AnswerD>unite</AnswerD>
+        <Answer>A</Answer>
+    </Item>
+    <Item>
+        <ID>29</ID>
+        <Question> I’ll phone as soon as I ________. to London.</Question>
+        <AnswerA>make</AnswerA>
+        <AnswerB>get</AnswerB>
+        <AnswerC>reach</AnswerC>
+        <AnswerD>got</AnswerD>
+        <Answer>B</Answer>
+    </Item>
+    <Item>
+        <ID>30</ID>
+        <Question> We decided ________. at home this afternoon.</Question>
+        <AnswerA>staying</AnswerA>
+        <AnswerB>stayed</AnswerB>
+        <AnswerC>stay</AnswerC>
+        <AnswerD>to stay</AnswerD>
+        <Answer>D</Answer>
+    </Item>
+    <Item>
+        <ID>31</ID>
+        <Question> After we had had breakfast, we ________ the house.</Question>
+        <AnswerA>leave</AnswerA>
+        <AnswerB>left</AnswerB>
+        <AnswerC>has left</AnswerC>
+        <AnswerD>had left</AnswerD>
+        <Answer>B</Answer>
+    </Item>
+    <Item>
+        <ID>32</ID>
+        <Question> I had heard the news before you ________ me about it.</Question>
+        <AnswerA>tell</AnswerA>
+        <AnswerB>told</AnswerB>
+        <AnswerC>has told</AnswerC>
+        <AnswerD>had told</AnswerD>
+        <Answer>B</Answer>
+    </Item>
+    <Item>
+        <ID>33</ID>
+        <Question> It ________ when I got up this morning.</Question>
+        <AnswerA>rains</AnswerA>
+        <AnswerB>rained</AnswerB>
+        <AnswerC>had rained</AnswerC>
+        <AnswerD>was raining</AnswerD>
+        <Answer>D</Answer>
+    </Item>
+    <Item>
+        <ID>34</ID>
+        <Question>What does he ________ for a living?</Question>
+        <AnswerA>make</AnswerA>
+        <AnswerB>does</AnswerB>
+        <AnswerC>do</AnswerC>
+        <AnswerD>makes</AnswerD>
+        <Answer>C</Answer>
+    </Item>
+    <Item>
+        <ID>35</ID>
+        <Question> The murderer was ________ yesterday.</Question>
+        <AnswerA>hanging</AnswerA>
+        <AnswerB>hung</AnswerB>
+        <AnswerC>hanged</AnswerC>
+        <AnswerD>hang</AnswerD>
+        <Answer>B</Answer>
+    </Item>
+    <Item>
+        <ID>36</ID>
+        <Question> Don’t let your brothers ________ the present.</Question>
+        <AnswerA>to see</AnswerA>
+        <AnswerB>seeing</AnswerB>
+        <AnswerC>seen</AnswerC>
+        <AnswerD>see</AnswerD>
+        <Answer>D</Answer>
+    </Item>
+    <Item>
+        <ID>37</ID>
+        <Question>No, thank you, I don’t ________ sugar in tea.</Question>
+        <AnswerA>take</AnswerA>
+        <AnswerB>put</AnswerB>
+        <AnswerC>eat</AnswerC>
+        <AnswerD>drink</AnswerD>
+        <Answer>B</Answer>
+    </Item>
+    <Item>
+        <ID>38</ID>
+        <Question> My cousin ________ bank manager.</Question>
+        <AnswerA>is a</AnswerA>
+        <AnswerB>makes</AnswerB>
+        <AnswerC>is</AnswerC>
+        <AnswerD>, he is</AnswerD>
+        <Answer>A</Answer>
+    </Item>
+    <Item>
+        <ID>39</ID>
+        <Question> She’s talking to you. Please listen to ________.</Question>
+        <AnswerA>she</AnswerA>
+        <AnswerB>hers</AnswerB>
+        <AnswerC>her</AnswerC>
+        <AnswerD>them</AnswerD>
+        <Answer>C</Answer>
+    </Item>
+    <Item>
+        <ID>40</ID>
+        <Question> You can join the club when you ________ a bit older.</Question>
+        <AnswerA>will have got</AnswerA>
+        <AnswerB>will get</AnswerB>
+        <AnswerC>get</AnswerC>
+        <AnswerD>are getting</AnswerD>
+        <Answer>C</Answer>
+    </Item>
+</Questionare2>
+

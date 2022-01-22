@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/TxtBanhcanh"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Món banh canh"
+        android:textSize="30dp"
+        android:textAlignment="center"
+        android:textColor="@color/colorAccent"
+        android:padding="20dp"
+        android:gravity="center_horizontal" />
+    <ImageView
+        android:id="@+id/ImgBanhcanh"
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:src="@drawable/banhcanh"
+        android:layout_below="@+id/TxtBanhcanh"
+        android:layout_gravity="center" />
+    <Button
+        android:id="@+id/BtnBackFromBanhcanh"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="Trở về"
+        android:textSize="20dp"
+        android:layout_marginTop="20dp"
+        android:layout_below="@+id/ImgBanhcanh"
+        android:layout_gravity="center"
+    />
+</LinearLayout>
